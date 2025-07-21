@@ -43,4 +43,4 @@ jobs:
             console.log(
               `PR ${prLabels.includes(requiredLabel) ? 'has' : 'does not have'} required label: ${requiredLabel}`
             )
-            return context.payload.client_payload.value
+
