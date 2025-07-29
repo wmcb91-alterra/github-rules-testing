@@ -1,2 +1,2 @@
 # rules-testing
-test
+test 2
